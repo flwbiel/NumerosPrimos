@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumerosPrimos</string>
+    <string name="numero">Digite um número de 1 a 100</string>
+    <string name="calcular"> Calcular</string>
+    <string name="aviso">Número inserido não está entre 1 e 100</string>
+</resources>
